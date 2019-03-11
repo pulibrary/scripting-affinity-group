@@ -6,4 +6,14 @@ extract-strings.xq creates a CSV table with cid, field name, string value, line 
 Installing python:
  
 Mac
-Check for XCode (which we checked with `gcc --version`), install Homebrew, install Python `brew install python`.
+Check for XCode (which we checked with `gcc --version`), install Homebrew, install Python `brew install python`. Create a file and use the output of extract-strings.xq as your csv input.
+
+```
+import csv, os
+
+f = open('strings.csv')
+csv_f = csv.reader(f)
+
+for row in csv_f:
+  os.system('echo -%s' row) // this doesn't work yet
+```
