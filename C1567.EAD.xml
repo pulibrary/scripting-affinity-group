@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     audience="external">
+    <eadheader scriptencoding="iso15924"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b">
+        <eadid url="http://arks.princeton.edu/ark:/88435/02870z94h"
+             countrycode="US"
+             mainagencycode="US-NjP"
+             urn="ark:/88435/02870z94h">C1567</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Idea Vilariño Papers, <date type="inclusive" normal="1931/2007">1931-2007</date> (bulk <date type="inclusive" normal="1931/2007">1931-2007</date>): Finding Aid </titleproper>
+            </titlestmt>
+            <publicationstmt id="rbscAddress">
+                <publisher>Princeton University Library. Department of Rare Books and Special
+                    Collections.</publisher>
+                <address>
+                    <addressline>Manuscripts Division</addressline>
+                    <addressline>One Washington Road</addressline>
+                    <addressline>Princeton, New Jersey 08544 USA</addressline>
+                    <addressline>Phone: (609) 258-3184</addressline>
+                    <addressline>Fax: (609) 258-2324</addressline>
+                    <addressline>rbsc@princeton.edu</addressline>
+                    <addressline>http://www.princeton.edu/~rbsc</addressline>
+                </address>
+                <date normal="2017/2017">2017</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit <date normal="2017-08-28">2017-08-28T14:38-0400</date>
+            </creation>
+            <langusage>
+                <language langcode="eng"/>
+            </langusage>
+            <descrules>Finding aid content adheres to that prescribed by <emph render="italic">Describing Archives: A Content Standard.</emph>
+            </descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date normal="2017-08-28">2017-08-28T14:38:35.407-04:00</date>
+                <item>Run through PULFA 2.0 normalization routines.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" type="findingaid" relatedencoding="marc21">
+        <did>
+            <unitid countrycode="US" repositorycode="US-NjP" type="collection">C1567</unitid>
+            <repository id="mss">
+                <corpname source="viaf" authfilenumber="http://viaf.org/viaf/168350386">Princeton University. Library. Department of Rare Books and Special Collections</corpname>
+                <subarea>Manuscripts Division</subarea>
+                <address>
+                    <addressline>One Washington Road</addressline>
+                    <addressline>Princeton, New Jersey 08544 USA</addressline>
+                </address>
+            </repository>
+            <unittitle>Idea Vilariño Papers</unittitle>
+            <unitdate type="inclusive" normal="1931/2007">1931-2007</unitdate>
+            <physdesc>
+                <extent unit="footage">2.0 linear feet</extent>
+                <extent>5 boxes</extent>
+            </physdesc>
+            <origination>
+                <persname source="viaf" authfilenumber="http://viaf.org/viaf/35766662">Vilariño,
+                    Idea</persname>
+            </origination>
+            <langmaterial>
+                <language langcode="spa"/>
+                <language langcode="fre"/>
+                <language langcode="eng"/>
+            </langmaterial>
+            <abstract>Idea Vilariño was a poet, literary critic, song composer, translator, and
+                educator. Her papers contain handwritten and typewritten drafts and proofs of her
+                poetry; correspondence with her siblings Numen, Poema, Azul, and Alma; personal
+                family photographs; research notebooks; and an annotated collection of books on
+                literary criticism, Shakespeare, Homer, Rubén Darío, and others.</abstract>
+            <physloc type="code">mss</physloc>
+        </did>
+        <bioghist>
+            <p>Idea Vilariño was a poet, literary critic, song composer, translator, and
+                professor.</p>
+            <p>She was born, Elena Idea Vilariño, in Montevideo, Uruguay, on August 18, 1920, to an
+                upper middle class family. Her father, Leandro Vilariño, was a poet; and her mother,
+                Josefina Romani, studied European literature. Her siblings Numen, Poema, Azul, and
+                Alma, like Idea, studied music in their youth. Her brother Numen would become a
+                professional composer and pianist.</p>
+            <p>Vilariño began writing poetry at an early age. Her first poetic work, <emph render="italic">La suplicante</emph>, was edited in 1945. Her second collection
+                of poetry, <emph render="italic">Cielo Cielo</emph>, was published in 1947. She was
+                a central figure of the intellectual group, <emph render="italic">Generación del
+                    45</emph>, that formed mostly of Uruguayan writers who rose to critical
+                recognition between 1945-1950. The group had a major influence in the literary and
+                cultural life of their region and included writers, critics, and poets such as María
+                Zulema Silva Vila, Manuel Arturo Claps, Carlos Maggi, María Inés Silva Vila, Juan
+                Ramón Jiménez, Emir Rodríguez Monegal, Ángel Rama, José Pedro Díaz, Amanda
+                Berenguer, Zenobia Camprubí, Ida Vitale, Elda Lago, and Manuel Flores Mora, among
+                others. She was heavily involved in several literary magazines like <emph render="italic">Clinamen</emph> (1947-1948) and co-founded <emph render="italic">Número</emph> (1949-1964) with Emir Rodríguez Monegal and Manuel Arturo Claps.
+                She published her next two collections of poetry <emph render="italic">Paraíso
+                    perdido</emph> (1949) and <emph render="italic">Por aire sucio</emph> (1950) in <emph render="italic">Número</emph>. Other collections of poetry include <emph render="italic">Nocturnos</emph> (1955), <emph render="italic">Poemas de amor</emph> (1958),
+                    <emph render="italic">Pobre mundo</emph> (1966), <emph render="italic">No</emph>
+                (1980), <emph render="italic">Canciones</emph> (1993), <emph render="italic">Poesía
+                    1945 - 1990</emph> (1994), and <emph render="italic">Poesía completa</emph>
+                (2000).</p>
+            <p>Vilariño published collections of essays on Antonio Machado (<emph render="italic">Grupos simétricos en la poesía de Antonio Machado</emph>) in
+                1951, and on Julio Herrera y Reissig (<emph render="italic">La rima en Herrera y
+                    Reissig</emph>) in 1955. She also wrote on the subject of tango in two separate
+                publications, <emph render="italic">Las letras de tango</emph> (1965) and <emph render="italic">El tango cantado</emph> (1981). Her translation works include
+                William Shakespeare's <emph render="italic">Hamlet, príncipe de Dinamarca</emph>,
+                (Montevideo, Ediciones de la Banda Oriental, 1974); Andrew Cecil Bradley's <emph render="italic">Macbeth, la atmósfera, las brujas</emph>, (Montevideo, Editorial
+                Técnica, 1976); William Shakespeare's <emph render="italic">Macbeth</emph>,
+                (Montevideo, Editorial Técnica, 1977); Guillermo Enrique Hudson's <emph render="italic">La tierra purpúrea</emph>, (Caracas, Biblioteca Ayacucho, 1980)
+                (collaboration with Jaime Rest), among others.</p>
+            <p>She was a professor of literature from 1952 until the 1973 Uruguayan coup d'état.
+                After the coup, she was chair of the Uruguayan and Latin American literature
+                department in the College of Education, Humanities and Sciences of The University of
+                the Republic. Between the years 1966 and 1984, she was a juror for the poetry
+                prize awarded by the Casa de las Américas in Havana. She was awarded the Uruguayan National
+                Prize for Literature in 1966 but refused to accept it, along with various other
+                awards. In 1994 she was the first woman to receive the Haydée Santamaría medal from
+                the Consejo de Estado from Cuba.</p>
+            <p>She died on April 28, 2009, in Montevideo at the age of 89.</p>
+        </bioghist>
+        <descgrp id="dacs3">
+            <scopecontent>
+                <p>The papers consist of handwritten and typewritten drafts and proofs of Vilariño's
+                    poetry; correspondence with her siblings Numen, Poema, Azul, and Alma; personal
+                    family photographs; research notebooks; and an annotated collection of books on
+                    literary criticism and translations of Shakespeare, Homer, Rubén Darío, and
+                    others. Other materials present include an early health records booklet and
+                    printed materials on or about Vilariño.</p>
+            </scopecontent>
+        </descgrp>
+        <descgrp id="dacs4">
+            <accessrestrict type="open">
+                <p>Open for research.</p>
+            </accessrestrict>
+            <userestrict>
+                <p>Single photocopies may be made for research purposes. No further photoduplication
+                    of copies of material in the collection can be made when Princeton University
+                    Library does not own the original. Permission to publish material from the
+                    collection must be requested from the Associate University Librarian for Rare
+                    Books and Special Collections. The library has no information on the status of
+                    literary rights in the collection and researchers are responsible for
+                    determining any questions of copyright.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp id="dacs5">
+            <acqinfo>
+                <p>Purchase, 2017 (AM 2017-153).</p>
+                <p>This collection was purchased (in part) with funds provided by the Program in Latin American Studies (PLAS).</p>
+            </acqinfo>
+            <appraisal>
+                <p>No materials were separated during 2017 processing.</p>
+            </appraisal>
+        </descgrp>
+        <descgrp id="dacs7">
+            <prefercite>
+                <p>Identification of specific item; Date (if known); Title of Collection, Box and
+                    Folder Number; Manuscripts Division, Department of Rare Books and Special
+                    Collections, Princeton University Library.</p>
+            </prefercite>
+            <processinfo type="processing">
+                <p>This collection was processed by <name role="processor">Elvia
+                        Arroyo-Ramirez</name> in <date normal="2017-08" type="processed">August
+                        2017</date>. Finding aid written by <name role="author">Elvia
+                        Arroyo-Ramirez</name> in <date normal="2017-08" type="processed">August
+                        2017</date>.</p>
+            </processinfo>
+        </descgrp>
+        <dao xlink:title="Princeton University Manuscripts Division"
+           xlink:href="bioghist-images/msslogo.jpg"
+           xlink:type="simple"/>
+        <controlaccess>
+            <persname source="viaf" authfilenumber="http://viaf.org/viaf/35766662">Vilariño,
+                Idea</persname>
+            <persname source="viaf" authfilenumber="http://viaf.org/viaf/41844581">Onetti, Juan
+                Carlos</persname>
+
+            <subject source="lcsh"
+                  authfilenumber="http://id.loc.gov/authorities/subjects/sh85010011">Authors,
+                Uruguayan</subject>
+            <subject source="lcsh"
+                  authfilenumber="http://id.loc.gov/authorities/subjects/sh85074926">Latin American
+                literature -- 20th century.</subject>
+            <subject source="lcsh"
+                  authfilenumber="http://id.loc.gov/authorities/subjects/sh85103884">Poets,
+                Uruguayan</subject>
+            <subject source="lcsh"
+                  authfilenumber="http://id.loc.gov/authorities/subjects/sh2008008714">Women authors,
+                Uruguayan</subject>
+            <subject source="lcsh"
+                  authfilenumber="http://id.loc.gov/authorities/subjects/sh2005002577">Women poets,
+                Uruguayan</subject>
+            <subject source="lcsh"
+                  authfilenumber="http://id.loc.gov/authorities/subjects/sh2010118982">Women
+                translators--Fiction</subject>
+
+            <subject source="local"
+                  encodinganalog="690"
+                  authfilenumber="t36"
+                  rules="local">Latin
+                American literature</subject>
+        </controlaccess>
+        <dsc type="combined">
+            <c level="series" id="C1567_c1">
+                <did>
+                    <unittitle>Notebooks and Agendas</unittitle>
+                    <unitdate normal="1941-01-01/2006-12-31" type="inclusive">1941-2006</unitdate>
+                    <physdesc>
+                        <extent type="computed">2 boxes (1 partial)</extent>
+                    </physdesc>
+                </did>
+                <arrangement>
+                    <p>Alphabetically.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>Includes notebooks and one agenda Vilariño used to make notes about various
+                        subjects including tango, literary criticism, Octavio Paz, Roland Barthes,
+                        Arthur Schopenhauer, among others. Most of the notebooks feature Vilariño's
+                        transcriptions her poetry by hand with indexes.</p>
+                </scopecontent>
+                <c level="file" id="C1567_c2">
+                    <did>
+                        <unittitle>Agenda "Actividad Semanal" (poemas de 1952-2003)</unittitle>
+
+                        <container parent="C1567_i1" type="folder">1</container>
+                        <unitdate type="inclusive" normal="1941/2006">1941-2006</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Agenda con actividad semanal y anotaciones varias. Contiene poesías
+                            manuscritas no incluidas en su <emph render="italic">Poesía
+                                completa</emph> con fecha de 1952 a 2003. Incluye un poema fechado
+                            en 1941, 8 hojas a máquina con poemas, 2 invitaciones a eventos, un
+                            email, fotocopia de un artículo de prensa y dos recortes de hojas
+                            manuscritas.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c3">
+                    <did>
+                        <unittitle>Cuaderno "Bachiller"</unittitle>
+
+                        <container parent="C1567_i1" type="folder">2</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Libreta bachiller verde con unas pocas páginas manuscritas con
+                            anotaciones sobre Antonio Machado. Hojas escritas arrancadas.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c4">
+                    <did>
+                        <unittitle>Cuaderno "Imprimo"</unittitle>
+
+                        <container parent="C1567_i1" type="folder">3</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Cuaderno de tapa dura marca "Imprimo." En cuyo interior incluye
+                            comentarios varios a poemas de otros autores, en gran parte relacionados
+                            con el tango. Mayormente libre, pocas hojas escritas. Contiene 15 hojas
+                            sueltas con anotaciones del mismo tema. Contiene trabajos de
+                            investigación sobre el tango.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c5">
+                    <did>
+                        <unittitle>Cuaderno "Laprida"</unittitle>
+
+                        <container parent="C1567_i1" type="folder">4</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Contiene comentarios manuscritos en distintos colores sobre diferentes
+                            obras de literatura, crítica y filosofía. Comentarios sobre Octavio Paz,
+                            Roland Barthes, Arthur Schopenhauer y otros.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c6">
+                    <did>
+                        <unittitle>Cuaderno negro (anotaciones)</unittitle>
+
+                        <container parent="C1567_i1" type="folder">5</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Cuaderno negro con unas algunas anotaciones de referidas a literatura del
+                            siglo XVIII.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c7">
+                    <did>
+                        <unittitle>Cuaderno negro (poemas de 1935-1943)</unittitle>
+
+                        <container parent="C1567_i1" type="folder">6</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Fechado en octubre de 1957. Incluye poesía de Vilariño desde 1935 a 1943,
+                            con un índice. Poemas manuscritos de su primera época, que luego fueron
+                            recogidos en su <emph render="italic">Poesía completa</emph> como
+                            “Poemas anteriores”. Algunos nunca recogidos en libro.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c8">
+                    <did>
+                        <unittitle>Cuaderno negro (poemas de 1944-1955)</unittitle>
+
+                        <container parent="C1567_i1" type="folder">7</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Contiene poesía manuscrita de Vilariño de 1944 hasta 1955. Contiene
+                            correcciones, algunos tachados. No incluye índice.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c9">
+                    <did>
+                        <unittitle>Cuaderno negro (poemas de 1955-1968)</unittitle>
+
+                        <container parent="C1567_i2" type="folder">1</container>
+                        <unitdate normal="1973/1973">circa 1973</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Incluye poesía de Vilariño de 1955 a 1968, con adición de 1973. Se
+                            encuentra un poema dedicado a Juan Carlos Onetti. No incluye índice.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c10">
+                    <did>
+                        <unittitle>Cuaderno "Poemas 1935" (poemas 1931-1948)</unittitle>
+
+                        <container parent="C1567_i2" type="folder">2</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Cuaderno azul en cuya tapa dice "Poemas 1935." Textos inéditos y primeras
+                            versiones escritas por Idea Vilariño “con 14 años,” tal como la autora
+                            lo indica. En su interior se encuentra de forma manuscrita poesía de
+                            Vilariño de 1935 hasta 1948. Incluye índice. Y al final incluye en
+                            sentido contrario y de forma manuscrita poesía de Vilariño de 1931 hasta
+                            1935.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c11">
+                    <did>
+                        <unittitle>Cuaderno "Poemas 1946" (poemas 1949-1966)</unittitle>
+
+                        <container parent="C1567_i2" type="folder">3</container>
+                        <unitdate type="inclusive" normal="1995/2002">1995-2002</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Cuaderno azul cuya tapa dice "Poemas 1949." Incluye de forma manuscrita
+                            poesía de Vilariño de 1949 hasta 1966. Muchos de estos poemas fueron
+                            publicados en <emph render="italic">Poemas de amor</emph> y <emph render="italic">Pobre mundo</emph>. Contiene inédito de 1995 en hoja
+                            suelta y otro inédito fechado en febrero 2 de 2002.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c12">
+                    <did>
+                        <unittitle>Cuaderno "Poemas 1967" (poemas 1967-1995)</unittitle>
+
+                        <container parent="C1567_i2" type="folder">4</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Cuaderno azul cuya tapa dice "Poemas 1967." Incluye obra de forma
+                            manuscrita desde 1967 hasta 1995. Con muchas correcciones, algunos
+                            poemas escritos en hoja apaisada (horizontal). Incluye índice. Se
+                            destaca un poema que Vilariño dedica a José Gervasio Artigas y el Éxodo
+                            del Pueblo Oriental, no recogido en libro, presumiblemente inédito.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="C1567_c13">
+                <did>
+                    <unittitle>Writings</unittitle>
+                    <unitdate normal="1951-01-01/1976-12-31" type="inclusive">1951-1976</unitdate>
+                    <physdesc>
+                        <extent type="computed">portions of 2 boxes</extent>
+                    </physdesc>
+                </did>
+                <arrangement>
+                    <p>Alphabetically.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>Contains typewritten proofs with handwritten annotations of Vilariño's
+                        published collections of poetry, namely <emph render="italic">Paraíso
+                            perdido</emph> and <emph render="italic">Por aire sucio</emph>. Also
+                        includes handwritten notes regarding various subjects of interest including
+                        Dante, Eduardo Anguita, Gonzalo Rojas, Shakespeare, and other literary
+                        subjects.</p>
+                </scopecontent>
+                <c level="file" id="C1567_c14">
+                    <did>
+                        <unittitle>Apuntes Manuscritos Sobre Dante</unittitle>
+
+                        <container parent="C1567_i2" type="folder">5</container>
+                        <unitdate normal="1965/1965">circa 1965</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Sobre en cuyo exterior está la palabra "Dante" y en el interior hojas de
+                            cuaderno sueltas con comentarios manuscritos sobre la obra de Dante y
+                            sobre la literatura italiana. También incluye un recorte de diario
+                            titulado:“Lecciones directas ha legado Dante Alighieri a este
+                            siglo.”</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c15">
+                    <did>
+                        <unittitle>Apuntes Manuscritos Sobre Eduardo Anguita y Gonzalo
+                            Rojas</unittitle>
+
+                        <container parent="C1567_i2" type="folder">6</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Incluye hojas sueltas manuscritas con comentario sobre dos libros de
+                            Eduardo Anguita y Gonzalo Rojas.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c16">
+                    <did>
+                        <unittitle>Apuntes Manuscritos Sobre Shakespeare</unittitle>
+
+                        <container parent="C1567_i2" type="folder">7</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Papel de regalo envolviendo hojas manuscritas y 4 a máquina donde Idea
+                            escribe sobre la obra de Shakespeare. Afuera tiene una etiqueta que dice
+                            "Notas W. Sh.". En el interior otra que dice “Notas Shakespeare”.
+                            Algunas hojas en español otras en inglés. También 1 programa de
+                            S.O.D.R.E de la “Décimoctava temporada oficial de cine arte” de
+                            1961.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c17">
+                    <did>
+                        <unittitle>Bibliografía</unittitle>
+
+                        <container parent="C1567_i2" type="folder">8</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c18">
+                    <did>
+                        <unittitle>Ilíada y Grecia</unittitle>
+
+                        <container parent="C1567_i2" type="folder">9</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Sobre referido a la Ilíada y Grecia, hojas sueltas, 25 manuscritas y 75 a
+                            máquina, en variedad de tamaños. Mayormente en español, algunas en
+                            inglés y francés. Se infiere para preparación de curso ya que alguna
+                            dice, “Bolilla I” y “Primer curso”.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c19">
+                    <did>
+                        <unittitle>Materiales Impresos: "Polidoro" y "Ema Haberli"</unittitle>
+
+                        <container parent="C1567_i2" type="folder">10</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Programa impreso de “Polidoro,” versión musical de Numen Vilariño con
+                            traducción de Idea, presentados en Asociación Cristiana de Jóvenes en
+                            1974. Y programa del Recital Danza Libre “Ema Haberli” con obras de Idea
+                            y Numen, presentado también en Asociación Cristiana de Jóvenes en
+                            1974.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c20">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Paraíso perdido</emph>: Originales
+                            mecanografiados</unittitle>
+
+                        <container parent="C1567_i2" type="folder">11</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Originales mecanografiados de <emph render="italic">Paraíso
+                                Perdido</emph> con correcciones manuscritas de Vilariño. Incluye
+                            poemas previstos para ser incluidos en <emph render="italic">La
+                                Suplicante</emph>, libro que en su <emph render="italic">Poesía
+                                Completa</emph> es de un solo poema.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c21">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Por aire sucio</emph>: Primera prueba de imprenta
+                            y versión mecanografiada</unittitle>
+
+                        <container parent="C1567_i2" type="folder">12</container>
+                        <unitdate normal="1951/1951">circa 1951</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Contiene prueba de imprenta de la primera edición de <emph render="italic">Por aire sucio</emph> donde figuran las correcciones
+                            manuscritas hechas por Idea. También contiene versión mecanografiada con
+                            su división original en Parte I (Abandonos y fantasmas) y Parte II
+                            (Cielo, cielo) con correcciones de puño y letra. Estas dos partes solo
+                            se verán en la primera edición de <emph render="italic">Por aire
+                                sucio</emph>. Se encuentra otra versión mecanografiada con
+                            correcciones y tachaduras de puño y letra, también con su división
+                            original en dos partes.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c22">
+                    <did>
+                        <unittitle>Preguntas periodísticas con respuestas manuscritas</unittitle>
+
+                        <container parent="C1567_i2" type="folder">13</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c23">
+                    <did>
+                        <unittitle>Pruebas de imprenta para "Número"</unittitle>
+
+                        <container parent="C1567_i3" type="folder">1</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Pruebas de imprenta presumiblemente para la revista “Número” con poemas
+                            varios y anotaciones manuscritas.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c24">
+                    <did>
+                        <unittitle>"Salmos" y "Nuevo testamento"</unittitle>
+
+                        <container parent="C1567_i3" type="folder">2</container>
+                        <unitdate type="inclusive" normal="1974/1976">circa 1974-1976</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Sobre con una inscripción que dice "Salmos" y "Nuevo testamento." Incluye
+                            34 hojas a máquina con anotaciones y 45 hojas manuscritas. Todas
+                            sueltas, de distintos tamaños referentes a la temática inscrita en el
+                            sobre. Este material seguramente fue preparatorio para las publicaciones
+                            posteriores de Idea Vilariño, como <emph render="italic">Los
+                                Salmos</emph> de 1974; <emph render="italic">La literatura
+                                bíblica</emph> de 1976, y <emph render="italic">Introducción a la
+                                literatura bíblica</emph> de 1976.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="C1567_c25">
+                <did>
+                    <unittitle>Letters and Correspondence</unittitle>
+                    <unitdate normal="1937-01-01/2002-12-31" type="inclusive">1937-2002</unitdate>
+                    <physdesc>
+                        <extent type="computed">5 folders</extent>
+                    </physdesc>
+                </did>
+                <arrangement>
+                    <p>Alphabetically.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>Contains letters and correspondence to and from Idea Vilariño to her
+                        siblings, invitations to events, and letters from her time as professor of
+                        literature at the Universidad de la República Uruguay.</p>
+                </scopecontent>
+                <c level="file" id="C1567_c26">
+                    <did>
+                        <unittitle>Bautista y Alcaraz, Norberto</unittitle>
+
+                        <container parent="C1567_i3" type="folder">3</container>
+                        <unitdate normal="1942/1942">1942</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Carta de recomendación a favor de Vilariño firmada por Norberto Bautista
+                            y Alcaraz, director de los Institutos de Enseñanza Secundaria de Artigas
+                            y Rocha, avalando sus conocimientos y su desempeño como profesora,
+                            fechada en 1942.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c27">
+                    <did>
+                        <unittitle>Invitaciones a Eventos y Presentaciones</unittitle>
+
+                        <container parent="C1567_i3" type="folder">4</container>
+                        <unitdate type="inclusive" normal="1999/2002">1999-2002</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c28">
+                    <did>
+                        <unittitle>Universidad de la República Uruguay</unittitle>
+
+                        <container parent="C1567_i3" type="folder">5</container>
+                        <unitdate type="inclusive" normal="1970/1988">1970-1988</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c29">
+                    <did>
+                        <unittitle>Vilariño, Idea a/de Numen, Azul, y Alma (de Baltar)</unittitle>
+
+                        <container parent="C1567_i3" type="folder">6</container>
+                        <unitdate type="inclusive" normal="1937/1957">1937-1957</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Contains letters to and from Idea from her siblings, Numen, Azul, and
+                            Alma (de Baltar). Includes one telegram from "Claps" (possibly Manuel
+                            Arturo Claps) to Alma.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c30">
+                    <did>
+                        <unittitle>Vilariño, Idea a Varios Destinados</unittitle>
+
+                        <container parent="C1567_i3" type="folder">7</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Contains letters from Vilariño to a number of individuals who are only
+                            identified by affectionate nicknames such as "Querida" and "Viejita
+                            Fea."</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="C1567_c31">
+                <did>
+                    <unittitle>Annotated Books</unittitle>
+                    <unitdate normal="1966-01-01/1988-12-31" type="inclusive">1966-1988</unitdate>
+                    <physdesc>
+                        <extent type="computed">3 boxes (2 partial)</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p>Contains portions of Vilariño's personal library of books on
+                        literary criticism, translated works, Shakespeare, Homer, Rubén Darío, and
+                        others, all with handwritten annotations by Vilariño. The dates listed
+                        correspond to any markings that indicate when Vilariño annotated these
+                        books.</p>
+                </scopecontent>
+                <arrangement>
+                    <p>Alphabetically by author's last name.</p>
+                </arrangement>
+                <c level="file" id="C1567_c32">
+                    <did>
+                        <unittitle>Bradley, Andrew Cecil - <emph render="italic">Shakespeare
+                                Tragedy: Lectures on Hamlet, Othello, King Lear, Macbeth</emph>
+                            (1956)</unittitle>
+
+                        <container parent="C1567_i3" type="folder">8</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c33">
+                    <did>
+                        <unittitle>Contreras, Francisco - <emph render="italic">Rubén Darío: su vida
+                                y su obra</emph> (1937)</unittitle>
+
+                        <container parent="C1567_i3" type="folder">9</container>
+                        <unitdate normal="1966/1966">circa 1966</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>There is a poem titled, "A un poeta" dedicated to Rubén Darío and read in
+                            Havana in 1966 at the Casa de las Américas.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c34">
+                    <did>
+                        <unittitle>Ghiano, Juan Carlos - <emph render="italic">Rubén Darío</emph>
+                            (1967)</unittitle>
+
+                        <container parent="C1567_i3" type="folder">10</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c35">
+                    <did>
+                        <unittitle>Homero, <emph render="italic">Ilíada. Traducción... por Leconte
+                                de Lisle: Versión española de Germán Gómez de la Mata</emph>, Tomo 1
+                            (circa 1915)</unittitle>
+
+                        <container parent="C1567_i3" type="folder">11</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <phystech>
+                        <p>Missing book cover; blue marbled covers.</p>
+                    </phystech>
+                </c>
+                <c level="file" id="C1567_c36">
+                    <did>
+                        <unittitle>Homero, <emph render="italic">Ilíada. Traducción... por Leconte
+                                de Lisle: Versión española de Germán Gómez de la Mata</emph>, Tomo 2
+                            (circa 1915)</unittitle>
+
+                        <container parent="C1567_i4" type="folder">1</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <phystech>
+                        <p>Blue marbled covers.</p>
+                    </phystech>
+                </c>
+                <c level="file" id="C1567_c37">
+                    <did>
+                        <unittitle>Homero, <emph render="italic">Ilíada. Traducción... por Leconte
+                                de Lisle: Versión española de Germán Gómez de la Mata</emph>, Tomo 1
+                            (circa 1915)</unittitle>
+
+                        <container parent="C1567_i4" type="folder">2</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <phystech>
+                        <p>Maroon covers.</p>
+                    </phystech>
+                </c>
+                <c level="file" id="C1567_c38">
+                    <did>
+                        <unittitle>Homero, <emph render="italic">Ilíada. Traducción... por Leconte
+                                de Lisle: Versión española de Germán Gómez de la Mata</emph>, Tomo 2
+                            (circa 1915)</unittitle>
+
+                        <container parent="C1567_i4" type="folder">3</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <phystech>
+                        <p>Maroon covers.</p>
+                    </phystech>
+                </c>
+                <c level="file" id="C1567_c39">
+                    <did>
+                        <unittitle>Herrera y Reissig, Julio - <emph render="italic">Obras
+                                poéticas</emph> (1966)</unittitle>
+
+                        <container parent="C1567_i4" type="folder">4</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c40">
+                    <did>
+                        <unittitle>Herrera y Reissig, Julio - <emph render="italic">Prosas, crítica,
+                                cuentos, comentarios</emph> (1918)</unittitle>
+
+                        <container parent="C1567_i4" type="folder">5</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c41">
+                    <did>
+                        <unittitle>Ibañez, Roberto - <emph render="italic">Americanismo y
+                                modernismo</emph> (1968)</unittitle>
+
+                        <container parent="C1567_i4" type="folder">6</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c42">
+                    <did>
+                        <unittitle>Sánchez, Luis Alberto - <emph render="italic">Balance y
+                                liquidación del novecientos</emph> (1941)</unittitle>
+
+                        <container parent="C1567_i5" type="folder">1</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c43">
+                    <did>
+                        <unittitle>Shakespeare, William - <emph render="italic">Antonio y
+                                Cleopatra</emph> (1950)</unittitle>
+
+                        <container parent="C1567_i5" type="folder">2</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c44">
+                    <did>
+                        <unittitle>Shakespeare, William - <emph render="italic">Twelfth night</emph>
+                            (1959)</unittitle>
+
+                        <container parent="C1567_i5" type="folder">3</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c45">
+                    <did>
+                        <unittitle>Shakespeare, William - <emph render="italic">Hamlet</emph>
+                            (1940)</unittitle>
+
+                        <container parent="C1567_i5" type="folder">4</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c46">
+                    <did>
+                        <unittitle>Shakespeare, William - <emph render="italic">Hamlet: príncipe de
+                                Dinamarca</emph> (1944)</unittitle>
+
+                        <container parent="C1567_i5" type="folder">5</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1567_c47">
+                    <did>
+                        <unittitle>Wilson, John Dover - <emph render="italic">El verdadero
+                                Shakespeare: una aventura biográfica</emph> (1964)</unittitle>
+
+                        <container parent="C1567_i5" type="folder">6</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="C1567_c48">
+                <did>
+                    <unittitle>Personal Items</unittitle>
+                    <unitdate normal="1931-01-01/2006-12-31" type="inclusive">1931-2006</unitdate>
+                    <physdesc>
+                        <extent type="computed">2 folders</extent>
+                    </physdesc>
+                </did>
+                <arrangement>
+                    <p>Alphabetically.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>This section contains family photographs, some personal receipts, and a
+                        medical booklet that outlines Vilariño's medical history.</p>
+                </scopecontent>
+                <c level="file" id="C1567_c49">
+                    <did>
+                        <unittitle>Fotografías de familia en blanco y negro</unittitle>
+
+                        <container parent="C1567_i5" type="folder">7</container>
+                        <unitdate type="inclusive" normal="1931/1969">1931-1960s</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Sobre que contiene 28 fotos originales en blanco y negro de Idea y su
+                            familia (hermanos, padres) de diversos tamaños.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c50">
+                    <did>
+                        <unittitle>Libreta de sociedad médica y recibos oficiales</unittitle>
+
+                        <container parent="C1567_i5" type="folder">8</container>
+                        <unitdate type="inclusive" normal="1936/2006">1936-2006</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Libreta de su sociedad médica, donde se destaca su nombre completo Elena
+                            Idea Vilariño.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="C1567_c51">
+                <did>
+                    <unittitle>Others Work on Vilariño</unittitle>
+                    <unitdate normal="1995-01-01/2007-12-31" type="inclusive">1995-2007</unitdate>
+                    <physdesc>
+                        <extent type="computed">2 folders</extent>
+                    </physdesc>
+                </did>
+                <arrangement>
+                    <p>Alphabetically.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>Contains printed materials on Vilariño written by others.</p>
+                </scopecontent>
+                <c level="file" id="C1567_c52">
+                    <did>
+                        <unittitle>Berry-Bravo, Judy - "Poemas de amor de Idea Vilariño: experimento
+                            con el discurso amoroso"</unittitle>
+
+                        <container parent="C1567_i5" type="folder">9</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Artículo impreso de la revista "La Torre" año IX, nº 34 p.175-192,
+                            titulado: “Poemas de amor de Idea Vilariño: experimento con el discurso
+                            amoroso.”</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1567_c53">
+                    <did>
+                        <unittitle>Newspaper Clippings</unittitle>
+
+                        <container parent="C1567_i5" type="folder">10</container>
+                        <unitdate type="inclusive" normal="1999/2007">1999-2007</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+        <dsc type="othertype" othertype="physicalholdings">
+            <c id="C1567_i1" level="otherlevel" otherlevel="physicalitem">
+                <did>
+                    <container type="box">B-001067</container>
+                    <unitid type="barcode">32101047384548</unitid>
+                    <physloc type="code">mss</physloc>
+                </did>
+            </c>
+            <c id="C1567_i2" level="otherlevel" otherlevel="physicalitem">
+                <did>
+                    <container type="box">B-001068</container>
+                    <unitid type="barcode">32101047384555</unitid>
+                    <physloc type="code">mss</physloc>
+                </did>
+            </c>
+            <c id="C1567_i3" level="otherlevel" otherlevel="physicalitem">
+                <did>
+                    <container type="box">B-001069</container>
+                    <unitid type="barcode">32101047384563</unitid>
+                    <physloc type="code">mss</physloc>
+                </did>
+            </c>
+            <c id="C1567_i4" level="otherlevel" otherlevel="physicalitem">
+                <did>
+                    <container type="box">B-001070</container>
+                    <unitid type="barcode">32101047384571</unitid>
+                    <physloc type="code">mss</physloc>
+                </did>
+            </c>
+            <c id="C1567_i5" level="otherlevel" otherlevel="physicalitem">
+                <did>
+                    <container type="box">B-001071</container>
+                    <unitid type="barcode">32101047384589</unitid>
+                    <physloc type="code">mss</physloc>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
