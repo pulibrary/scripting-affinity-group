@@ -4,6 +4,7 @@
 # creates new csv file with returned language code inserted as an additional field (separator is *)
 # note: see http://www.unixguide.net/unix/bash/E4.shtml for why you can't just create a new variable by piping the curl output to read
 
+#requires: curl, Cloud SDK (gcloud), and jq (https://stedolan.github.io/jq/)
 #replace paths to match location of local files
 
 export GOOGLE_APPLICATION_CREDENTIALS="/Users/rbscadmin/Desktop/scripting-test-files/private-key.json"
