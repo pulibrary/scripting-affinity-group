@@ -1,11 +1,19 @@
 # scripting-affinity-group
 Currently working on scripts to make Finding Aids more accessible by adding language codes where needed.
 
-1: Run extract-string-replace-apostrophe.xquery over an EAD file. Requires Oxygen XML Editor. Older version still in repo: extract-strings.xq
+### Draft Workflow
 
-2: Run log-languages-in-csv.sh over results file. Requires: curl, Cloud SDK (gcloud), and jq (https://stedolan.github.io/jq/). Older versions still in repo: log-languages-with-jq.sh, bash-loop-attempt.sh, bash-attempt-star-delimiter.sh.
+1: Run extract-string-replace-apostrophe.xquery over an EAD file.
+* XQuery script that creates pulls element titles, component IDs, and text from EAD files into a .csv file.
+* This XQuery creates runs over an EAD file and creates a .csv file with cid, element name, string value (stripped of apostrophes), line break. Uses asterisk as a delimiter.
+* Run as transformation scenario in Oxygen XML Editor.
+* Older version still in repo: extract-strings.xq
 
-
+2: Run log-languages-in-csv.sh over results file.
+* This bash script runs over the ouput .csv file from #1, queries Google's translation API, and creates a new .csv file with the same information, plus a column with the language code assigned by the Google API.
+* Requires: curl, Cloud SDK (gcloud), and jq (https://stedolan.github.io/jq/).
+* Older versions still in repo: log-languages-with-jq.sh, bash-loop-attempt.sh, bash-attempt-star-delimiter.sh.
+* Change file paths/filenames in script to match local location of files.
 
 ### Miscellaneous Notes
 
