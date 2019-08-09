@@ -4,8 +4,7 @@ Currently working on scripts to make Finding Aids more accessible by adding lang
 ### Draft Workflow
 
 1: Run extract-string-replace-apostrophe.xquery over an EAD file.
-* XQuery script that creates pulls element titles, component IDs, and text from EAD files into a .csv file.
-* This XQuery creates runs over an EAD file and creates a .csv file with cid, element name, string value (stripped of apostrophes), line break. Uses asterisk as a delimiter.
+* This XQuery runs over an EAD file and creates a .csv file with cid, element name, string value (stripped of apostrophes), line break. Uses asterisk as a delimiter.
 * Run as transformation scenario in Oxygen XML Editor.
 * Older version still in repo: extract-strings.xq
 
